@@ -1,5 +1,3 @@
-# Sentiment-Analysis
-
 ## Sentiment Analysis of Hotel Reviews: 
 
 I was given a dataset as assessment for a internship which contains 3 columns - Date, Location & Reviews.
